@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/my_car_bot/my_car_bot.egg-info
+writing ../../build/my_car_bot/my_car_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_car_bot/my_car_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/my_car_bot/my_car_bot.egg-info/entry_points.txt
+writing requirements to ../../build/my_car_bot/my_car_bot.egg-info/requires.txt
+writing top-level names to ../../build/my_car_bot/my_car_bot.egg-info/top_level.txt
+writing manifest file '../../build/my_car_bot/my_car_bot.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_car_bot/my_car_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_car_bot/my_car_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build/lib
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build/lib/my_car_bot
+copying my_car_bot/cmd_vel_relay.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build/lib/my_car_bot
+copying my_car_bot/__init__.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build/lib/my_car_bot
+running install
+running install_lib
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot
+copying /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build/lib/my_car_bot/cmd_vel_relay.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot
+copying /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build/lib/my_car_bot/__init__.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot
+byte-compiling /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot/cmd_vel_relay.py to cmd_vel_relay.cpython-312.pyc
+byte-compiling /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/ament_index
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/ament_index/resource_index
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/ament_index/resource_index/packages
+copying resource/my_car_bot -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/ament_index/resource_index/packages
+copying package.xml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/launch
+copying launch/mapping.launch.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/launch
+copying launch/navigation.launch.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/launch
+copying launch/sim.launch.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/launch
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/urdf
+copying urdf/robot.urdf.xacro -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/urdf
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/worlds
+copying worlds/road_with_obstacles.sdf -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/worlds
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/config
+copying config/mapper_params_online_async.yaml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/config
+copying config/nav2_params.yaml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/config
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/maps
+running install_egg_info
+Copying ../../build/my_car_bot/my_car_bot.egg-info to /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot-0.0.0-py3.12.egg-info
+running install_scripts
+Installing cmd_vel_relay script to /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/my_car_bot
+writing list of installed files to '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/install.log'

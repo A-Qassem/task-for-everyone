@@ -1,0 +1,22 @@
+[1.315s] Invoking command in '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/src/my_car_bot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_car_bot build --build-base /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build install --record /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/install.log --single-version-externally-managed install_data
+[1.752s] running egg_info
+[1.785s] writing ../../build/my_car_bot/my_car_bot.egg-info/PKG-INFO
+[1.785s] writing dependency_links to ../../build/my_car_bot/my_car_bot.egg-info/dependency_links.txt
+[1.785s] writing entry points to ../../build/my_car_bot/my_car_bot.egg-info/entry_points.txt
+[1.785s] writing requirements to ../../build/my_car_bot/my_car_bot.egg-info/requires.txt
+[1.785s] writing top-level names to ../../build/my_car_bot/my_car_bot.egg-info/top_level.txt
+[1.852s] reading manifest file '../../build/my_car_bot/my_car_bot.egg-info/SOURCES.txt'
+[1.853s] writing manifest file '../../build/my_car_bot/my_car_bot.egg-info/SOURCES.txt'
+[1.854s] running build
+[1.854s] running build_py
+[1.855s] running install
+[1.863s] running install_lib
+[1.901s] running install_data
+[1.901s] copying worlds/road_with_obstacles.sdf -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/share/my_car_bot/worlds
+[1.901s] running install_egg_info
+[1.933s] removing '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot-0.0.0-py3.12.egg-info' (and everything under it)
+[1.934s] Copying ../../build/my_car_bot/my_car_bot.egg-info to /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my_car_bot-0.0.0-py3.12.egg-info
+[1.935s] running install_scripts
+[2.179s] Installing cmd_vel_relay script to /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/my_car_bot
+[2.179s] writing list of installed files to '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/install.log'
+[2.235s] Invoked command in '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/src/my_car_bot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_car_bot build --build-base /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/build install --record /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/task-for-everyone/Ahmed Syam/my_robot_ws/build/my_car_bot/install.log --single-version-externally-managed install_data

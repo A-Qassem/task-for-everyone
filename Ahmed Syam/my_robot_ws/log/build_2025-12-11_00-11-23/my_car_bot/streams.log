@@ -1,0 +1,20 @@
+[1.251s] Invoking command in '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/build --no-deps symlink_data
+[1.767s] running develop
+[2.086s] running egg_info
+[2.117s] writing my_car_bot.egg-info/PKG-INFO
+[2.118s] writing dependency_links to my_car_bot.egg-info/dependency_links.txt
+[2.119s] writing requirements to my_car_bot.egg-info/requires.txt
+[2.119s] writing top-level names to my_car_bot.egg-info/top_level.txt
+[2.184s] reading manifest file 'my_car_bot.egg-info/SOURCES.txt'
+[2.184s] writing manifest file 'my_car_bot.egg-info/SOURCES.txt'
+[2.219s] running build_ext
+[2.219s] Creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my-car-bot.egg-link (link to .)
+[2.219s] 
+[2.219s] Installed /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot
+[2.219s] running symlink_data
+[2.224s] symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/launch/navigation.launch.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/launch
+[2.224s] symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/config/nav2_params.yaml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/config
+[2.224s] creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/maps
+[2.224s] symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/maps/my_map.pgm -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/maps
+[2.224s] symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/maps/my_map.yaml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/maps
+[2.313s] Invoked command in '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/build --no-deps symlink_data

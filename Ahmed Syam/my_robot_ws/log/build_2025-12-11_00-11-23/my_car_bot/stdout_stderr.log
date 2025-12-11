@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing my_car_bot.egg-info/PKG-INFO
+writing dependency_links to my_car_bot.egg-info/dependency_links.txt
+writing requirements to my_car_bot.egg-info/requires.txt
+writing top-level names to my_car_bot.egg-info/top_level.txt
+reading manifest file 'my_car_bot.egg-info/SOURCES.txt'
+writing manifest file 'my_car_bot.egg-info/SOURCES.txt'
+running build_ext
+Creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my-car-bot.egg-link (link to .)
+
+Installed /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot
+running symlink_data
+symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/launch/navigation.launch.py -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/launch
+symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/config/nav2_params.yaml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/config
+creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/maps
+symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/maps/my_map.pgm -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/maps
+symbolically linking /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/maps/my_map.yaml -> /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/share/my_car_bot/maps

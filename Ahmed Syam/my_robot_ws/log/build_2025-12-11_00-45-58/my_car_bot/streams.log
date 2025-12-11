@@ -1,0 +1,15 @@
+[1.800s] Invoking command in '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/build --no-deps symlink_data
+[2.682s] running develop
+[3.055s] running egg_info
+[3.104s] writing my_car_bot.egg-info/PKG-INFO
+[3.104s] writing dependency_links to my_car_bot.egg-info/dependency_links.txt
+[3.104s] writing requirements to my_car_bot.egg-info/requires.txt
+[3.104s] writing top-level names to my_car_bot.egg-info/top_level.txt
+[3.173s] reading manifest file 'my_car_bot.egg-info/SOURCES.txt'
+[3.173s] writing manifest file 'my_car_bot.egg-info/SOURCES.txt'
+[3.213s] running build_ext
+[3.215s] Creating /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages/my-car-bot.egg-link (link to .)
+[3.215s] 
+[3.215s] Installed /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot
+[3.218s] running symlink_data
+[3.297s] Invoked command in '/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/install/my_car_bot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/a-qassem/01DBC69DA6BBEB20/FCIS/ROB/test/my_robot_ws/build/my_car_bot/build --no-deps symlink_data
